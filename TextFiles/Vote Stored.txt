@@ -1,0 +1,4 @@
+345,Huma,Punjab,Lahore,Pakistan Muslim league
+777,Huma,Punjab,Lahore,Pakistan Muslim league
+100,Shumaim,Punjab,Lahore,Pakistan Muslim league
+555,Hania Amir,Punjab,Islamabad,Pakistan Tehreek Insaaf

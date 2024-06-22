@@ -1,0 +1,15 @@
+000,Hania Amir,Punjab,Islamabad,Pakistan Tehreek Insaaf
+999,Sheema,Punjab,Islamabad,Pakistan Muslim League
+222,Shanza,Punjab,Islamabad,Pakistan Tehreek Insaaf
+333,Azeema,Punjab,Islamabad,Pakistan Tehreek Insaaf
+444,Mahnoor,Punjab,Islamabad,Pakistan Tehreek Insaaf
+555,Laiba,Punjab,Islamabad,Pakistan Tehreek Insaaf
+111,Laraib,Punjab,Islamabad,Pakistan Tehreek Insaaf
+666,Zarmeena,Punjab,Islamabad,Pakistan Tehreek Insaaf
+777,Zobia,Punjab,Islamabad,Pakistan Tehreek Insaaf
+888,Zartaisha,Punjab,Islamabad,Pakistan Tehreek Insaaf
+101,Taimoor,Punjab,Islamabad,Pakistan Tehreek Insaaf
+202,Maha,Punjab,Islamabad,Pakistan Tehreek Insaaf
+303,Sidra,Punjab,Islamabad,Pakistan Tehreek Insaaf
+404,Faiza,Punjab,Islamabad,Pakistan Tehreek Insaaf
+000,Sadia,Punjab,Islamabad,Pakistan Tehreen Insaaf
